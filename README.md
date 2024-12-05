@@ -1,7 +1,7 @@
 # Rule Set Table (RST)-based automated data preprocessing
 This repository contains information about the RST concept, implemented by researchers of the Medical University of Vienna (MUV), Vienna, Austria. The development is conducted at the Center for Medical Physics and Biomedical Engineering (main developer: Denis Krajnc)
-The RST concept provides a tabular data-based simple interface for clinicians who can provide simple preference rules for each typical data preprocessing algorithm incorporated into a data preprocessing pipeline. This way, each data preprocessing step can be influenced with optional pr preferencial as well as with fixed rules.
-The RST concept allows cliniciand to incorporate domain knowledge into the process of automatically building a data preprocessing pipeline instead of manually preprocessing the given input data or instead of allowing the automated data preprocessing algorithm to perform any decision and acton based on mathematical / algorithmic rules.
+The RST concept provides a tabular data-based simple interface for clinicians who can provide simple preference rules for each typical data preprocessing algorithm incorporated into a data preprocessing pipeline. This way, each data preprocessing step can be influenced with optional or preferencial as well as with fixed rules.
+The RST concept allows clinicians to incorporate domain knowledge into the process of automatically building a data preprocessing pipeline instead of manually preprocessing the given input data or instead of allowing the automated data preprocessing algorithm to perform any decision and acton based on mathematical / algorithmic rules.
 
 
 ## Intended Use
