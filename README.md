@@ -21,4 +21,4 @@ todo...
 
 
 ## Citation
-The manuscript which described the scientific findings of the RST mechanism is currently under review.
+The manuscript which describes the scientific findings of the RST mechanism is currently under review.
