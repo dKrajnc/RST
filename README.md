@@ -17,7 +17,15 @@ Contact the correspondig author (Laszlo Papp, PhD, e-mail: laszlo.papp@meduniwie
 
 ### How to run the RST
 
-todo...
+To run the RST app, firstly download the BIN_MLDP_RST, Dataset and Settings directories.
+1. Open Command prompt and navigate to the BIN_MLDP_RST directory.
+2. Type in TestApplication.exe and add the following arguments:
+   - path to the Settings directory (../settings/)
+   - path to the dataset directory (../dataset/)
+   - for single center studies, path to the fold directory - however, our example contains dual-center DLBCL study with independent validation dataset, hence this argument may contain empty string ("")
+   - declare type of the study ("MULTI" in our case) or "SINGLE" for single-center studies
+To succesfully run the example, the command line should look similarly to the following lines:
+>>TestApplication.exe ../settigns/ ../dataset/ "" MULTI
 
 
 ## Citation
